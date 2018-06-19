@@ -1,19 +1,53 @@
-* { background-color:black;
-    border-radius: 20px;   
-}
+* { 
+    background: #000000;
+    border-radius: 20px;
+    margin-left:  5px;
+    margin-right: 5px;
+  }
 #cabecera {
     color: white;
     margin: 20px;
- }
-#listauno,#listados,#listatres,#listacuatro,#listacinco,#listaseis {
-    color: white;
-    font-size: 24px;
-    margin:10px;
-    width: 30%;
-    float: left;
-    
-    
+    }
+#cabecera img{
+    width: 99%;     
 }
+
+#premios table {
+width:  95%;
+    position: relative;
+    margin-left: 20px;
+    border: 2px solid #5614eb;
+}
+
+#episodios {
+
+    margin-top: 30px;
+}
+#foto {
+    float: right;
+    margin:20px 30px;
+}
+ 
+#listas {
+    
+    width: 300px;
+     color: white;
+    font-size: 24px;
+    margin-bottom:40px;
+    margin-left: 20px;
+    border: 2px solid #5614eb;
+    float: left;
+    }
+
+#links {
+    float: left;
+    padding-bottom: 50px;
+}
+
+#person img {
+    width: 95%;
+}
+
 
 #animal {  
     color: white;
@@ -24,69 +58,79 @@
    }
 #person {
     text-align: center;
-    margin: 0px; 40px;
+    margin: 20px; 20px;
 }
-#pasternak,#ratas, {  
+#pasternak,#ratas,#fuerte,#bombita, #propuesta,#separa {  
     color: white;
     font-size: 20px;
     font-family: cursive;
-    margin:20px;
+    margin:10px 10px 10px 10px;
 
-    width: auto;
+    border-left-width: thin;
+    float: none;
     
    }
+#pasternak img,#ratas img,#fuerte img, #ratas img, #bombita img, #propuesta img, #separa img {
 
+    width: 35%;
+    
+}
+#imagenes img{
+    width: 47%;
+    position: relative;
+    margin-left: 20px;
+}
+#person img¨{
+    width: 98%;
+}
+
+#premios{
+    clear: left;
+    margin:auto;
+    }
 
 
 h1 {
-    color: red;  
+    color: #ff0101;  
     font-family:sans-serif;
     font-size: 65px;
-    float: right;
+    text-align: center;
+    
         }
 
 h2 {
     color: white;
-    font-family:sans-serif;
+    font-family: Helvetica, Geneva, Arial,
+    SunSans-Regular, sans-serif;
     font-size: 32px;
     text-align: center;
     }
 h3
 { 
-    text-align:center;
+    text-align:left;
     }
 h4 {
     color: white;
-    font-family:sans-serif;
+    font-family: Helvetica, Geneva, Arial,
+    SunSans-Regular, sans-serif;
     font-size: 18px;
     text-align: left;
     width: 45%;
     margin: 20px;
     }
 p {color:white;
-    font-family: sans-serif;
+    font-family: Helvetica, Geneva, Arial,
+    SunSans-Regular, sans-serif;
     font-size: 24px;
     margin: 20px;
+    text-align: left
     }
 
-#foto {
-    float: right;
-    margin:20px 30px;
-}
-
-#ratas > img {
-    float:left;
-}
-
-* { background-color:black;
-    border-radius: 20px;
-   
-    }
-
+     
 th,td{
         color: white;
-        border-bottom:1px solid #ccc; border-left:1px solid white;
-        border-left:1px solid white;
+        border-bottom:1px solid #5614eb; border-left:0.5px solid #5614eb;
+        border-left:0.5px solid white;
         font-size: 20px;
 }
 
@@ -101,38 +145,25 @@ a:visited {
 
 #premios {
     color: white;
-    
-    
+    width: 99%;
     text-align: center;
       }
-
-                    
-    img id "elenco" {
-align-items: center;             
-        
-}
-img"10.jpg"{
-    align-items: center;
-}
+      
+  
                 
 #formul > form > input{
-    color:white;
+    color: white;
     height: 100px;
+   
 }              
 
 #comentario {
-    width: 90%;
+    width: 88%;
+   
 }
 
 #enviar {
     width: 9%;
 }
 
-.normal {
-  width: 500px;
-  border: solid #ffcc;
-  border:5px;
-}
-.normal th, .normal td {
-  border: 1px solid #000;
-}
+
