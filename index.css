@@ -1,0 +1,138 @@
+* { background-color:black;
+    border-radius: 20px;   
+}
+#cabecera {
+    color: white;
+    margin: 20px;
+ }
+#listauno,#listados,#listatres,#listacuatro,#listacinco,#listaseis {
+    color: white;
+    font-size: 24px;
+    margin:10px;
+    width: 30%;
+    float: left;
+    
+    
+}
+
+#animal {  
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    margin:20px;
+    width: 45%;
+   }
+#person {
+    text-align: center;
+    margin: 0px; 40px;
+}
+#pasternak,#ratas, {  
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    margin:20px;
+
+    width: auto;
+    
+   }
+
+
+
+h1 {
+    color: red;  
+    font-family:sans-serif;
+    font-size: 65px;
+    float: right;
+        }
+
+h2 {
+    color: white;
+    font-family:sans-serif;
+    font-size: 32px;
+    text-align: center;
+    }
+h3
+{ 
+    text-align:center;
+    }
+h4 {
+    color: white;
+    font-family:sans-serif;
+    font-size: 18px;
+    text-align: left;
+    width: 45%;
+    margin: 20px;
+    }
+p {color:white;
+    font-family: sans-serif;
+    font-size: 24px;
+    margin: 20px;
+    }
+
+#foto {
+    float: right;
+    margin:20px 30px;
+}
+
+#ratas > img {
+    float:left;
+}
+
+* { background-color:black;
+    border-radius: 20px;
+   
+    }
+
+th,td{
+        color: white;
+        border-bottom:1px solid #ccc; border-left:1px solid white;
+        border-left:1px solid white;
+        font-size: 20px;
+}
+
+.creditos {font-style:italic;
+            font-size: 22px;
+            font-family: cursive;
+    }
+
+a:visited {
+
+}
+
+#premios {
+    color: white;
+    
+    
+    text-align: center;
+      }
+
+                    
+    img id "elenco" {
+align-items: center;             
+        
+}
+img"10.jpg"{
+    align-items: center;
+}
+                
+#formul > form > input{
+    color:white;
+    height: 100px;
+}              
+
+#comentario {
+    width: 90%;
+}
+
+#enviar {
+    width: 9%;
+}
+
+.normal {
+  width: 500px;
+  border: solid #ffcc;
+  border:5px;
+}
+.normal th, .normal td {
+  border: 1px solid #000;
+}
